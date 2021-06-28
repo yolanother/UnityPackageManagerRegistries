@@ -1,11 +1,7 @@
 {
-  "registries": [
-    {
-      "name": "Wit.ai",
-      "description": "Unity repositiores for integrating Wit.ai into Unity projects",
-      "packages": [
-        "http://github.com/wit-ai/wit-unity.git"
-      ]
-    }
+  "name": "Wit.ai",
+  "description": "Unity repositiores for integrating Wit.ai into Unity projects",
+  "packages": [
+    "http://github.com/wit-ai/wit-unity.git"
   ]
 }

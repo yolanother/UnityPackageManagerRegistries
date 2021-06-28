@@ -1,19 +1,15 @@
 {
-  "registries":[
-    {
-      "name": "Doubling Technologies",
-      "description": "A collection of open sourced libraries from https://github.com/yolanother",
-      "packages": [
-        "https://github.com/yolanother/AccubowSensor.git",
-        "https://github.com/yolanother/UnityScriptableEvents.git",
-        "https://github.com/yolanother/UnitySplines.git",
-        "https://github.com/yolanother/UnityScriptTemplates.git",
-        "https://github.com/yolanother/CloneManager.git",
-        "https://github.com/yolanother/UnityVRIKTracking.git",
-        "https://github.com/yolanother/UnityJoesChessApi.git",
-        "https://github.com/yolanother/UnityEquationEvaluator.git",
-        "https://github.com/yolanother/TPSCharacterController.git"
-      ]
-    }
+  "name": "Doubling Technologies",
+  "description": "A collection of open sourced libraries from https://github.com/yolanother",
+  "packages": [
+    "https://github.com/yolanother/AccubowSensor.git",
+    "https://github.com/yolanother/UnityScriptableEvents.git",
+    "https://github.com/yolanother/UnitySplines.git",
+    "https://github.com/yolanother/UnityScriptTemplates.git",
+    "https://github.com/yolanother/CloneManager.git",
+    "https://github.com/yolanother/UnityVRIKTracking.git",
+    "https://github.com/yolanother/UnityJoesChessApi.git",
+    "https://github.com/yolanother/UnityEquationEvaluator.git",
+    "https://github.com/yolanother/TPSCharacterController.git"
   ]
 }
