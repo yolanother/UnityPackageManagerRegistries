@@ -5,8 +5,8 @@
       "registry": "doubtech.json"
     },
     {
-      "name": "Facebook",
-      "registry": "facebook.json"
+      "name": "Wit.ai",
+      "registry": "wit.json"
     }
   ]
 }
