@@ -1,0 +1,12 @@
+{
+  "registry-list": [
+    {
+      "name": "Doubling Technologies",
+      "registry": "doubtech.json"
+    },
+    {
+      "name": "Facebook",
+      "registry": "facebook.json"
+    }
+  ]
+}

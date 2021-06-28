@@ -1,0 +1,19 @@
+{
+  "registries":[
+    {
+      "name": "Doubling Technologies",
+      "description": "A collection of open sourced libraries from https://github.com/yolanother",
+      "packages": [
+        "https://github.com/yolanother/AccubowSensor",
+        "https://github.com/yolanother/UnityScriptableEvents",
+        "https://github.com/yolanother/UnitySplines",
+        "https://github.com/yolanother/UnityScriptTemplates",
+        "https://github.com/yolanother/CloneManager",
+        "https://github.com/yolanother/UnityVRIKTracking",
+        "https://github.com/yolanother/UnityJoesChessApi",
+        "https://github.com/yolanother/UnityEquationEvaluator",
+        "https://github.com/yolanother/TPSCharacterController"
+      ]
+    }
+  ]
+}
