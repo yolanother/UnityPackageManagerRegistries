@@ -2,7 +2,6 @@
   "name": "Doubling Technologies",
   "description": "A collection of open sourced libraries from https://github.com/yolanother",
   "packages": [
-    "https://github.com/yolanother/AccubowSensor.git",
     "https://github.com/yolanother/UnityScriptableEvents.git",
     "https://github.com/yolanother/UnitySplines.git",
     "https://github.com/yolanother/UnityScriptTemplates.git",
