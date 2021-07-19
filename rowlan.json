@@ -1,0 +1,13 @@
+{
+  "name": "Rowlan",
+  "description": "Unity repositiores built by Rowlan at https://github.com/Roland09",
+  "packages": [
+    "https://github.com/Roland09/TerrainTools3Mixer.git",
+    "https://github.com/Roland09/PrefabPainter.git",
+    "https://github.com/Roland09/PathPaintTool.git",
+    "https://github.com/Roland09/StampToolExtended.git",
+    "https://github.com/Roland09/VegetationStudioProExtensions.git",
+    "https://github.com/Roland09/GradientPicker.git",
+    "https://github.com/Roland09/Terrain-Stamps"
+  ]
+}
