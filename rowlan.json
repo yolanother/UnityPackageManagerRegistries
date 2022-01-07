@@ -2,6 +2,9 @@
   "name": "Rowlan",
   "description": "Unity repositiores built by Rowlan at https://github.com/Roland09",
   "packages": [
-    "https://github.com/Roland09/TerrainTools3Mixer.git?path=/Assets/TerrainTools/Mixer"
+    {
+      "package-manager-uri": "https://github.com/Roland09/TerrainTools3Mixer.git?path=/Assets/TerrainTools/Mixer",
+      "package-info-uri": "https://raw.githubusercontent.com/Roland09/TerrainTools3Mixer/main/Assets/TerrainTools/Mixer/package.json"
+    }
   ]
 }
