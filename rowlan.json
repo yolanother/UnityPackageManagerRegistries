@@ -13,6 +13,10 @@
     {
       "package-manager-uri": "https://github.com/Roland09/PhotoSession.git?path=/Assets/PhotoSession",
       "package-info-uri": "https://raw.githubusercontent.com/Roland09/PhotoSession/main/Assets/PhotoSession/package.json"
+    },
+    {
+      "package-manager-uri": "https://github.com/Roland09/TerrainBuilder.git?path=/Assets/TerrainBuilder",
+      "package-info-uri": "https://raw.githubusercontent.com/Roland09/TerrainBuilder/main/Assets/TerrainBuilder/package.json"
     }
   ]
 }
