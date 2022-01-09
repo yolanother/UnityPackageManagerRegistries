@@ -2,6 +2,9 @@
   "name": "Wizards Code",
   "description": "Unity repositiores built by Wizards at https://github.com/TheWizardsCode",
   "packages": [
-    "https://github.com/TheWizardsCode/DevLogger.git#release/stable"
+    {
+      "package-manager-uri": "https://github.com/TheWizardsCode/DevLogger.git",
+      "package-info-uri": "https://raw.githubusercontent.com/TheWizardsCode/DevLogger/master/package.json"
+    }
   ]
 }
