@@ -5,6 +5,10 @@
     {
       "package-manager-uri": "https://github.com/TheWizardsCode/DevLogger.git",
       "package-info-uri": "https://raw.githubusercontent.com/TheWizardsCode/DevLogger/master/package.json"
+    },
+    {
+      "package-manager-uri": "https://github.com/TheWizardsCode/AutomatedExplorer.git",
+      "package-info-uri": "https://raw.githubusercontent.com/TheWizardsCode/AutomatedExplorer/main/package.json"
     }
   ]
 }
