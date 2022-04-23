@@ -3,7 +3,7 @@
   "description": "A collection of open sourced libraries from https://github.com/Unity-Technologies",
   "packages": [
     {
-      "name": "GitHub - Probuilder"
+      "name": "GitHub - Probuilder",
       "package-manager-uri": "https://github.com/Unity-Technologies/com.unity.probuilder.git",
       "package-info-uri": "https://github.com/Unity-Technologies/com.unity.probuilder/package.json"
     },
