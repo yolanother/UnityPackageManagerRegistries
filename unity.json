@@ -4,8 +4,7 @@
   "packages": [
     {
       "name": "GitHub - Probuilder",
-      "package-manager-uri": "https://github.com/Unity-Technologies/com.unity.probuilder.git",
-      "package-info-uri": "https://github.com/Unity-Technologies/com.unity.probuilder/package.json"
+      "package": "https://github.com/Unity-Technologies/com.unity.probuilder.git"
     },
     {
       "named-package": "com.unity.ai.navigation",
