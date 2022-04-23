@@ -1,0 +1,8 @@
+{
+  "name": "Unity",
+  "description": "A collection of open sourced libraries from https://github.com/Unity-Technologies",
+  "packages": [
+    "https://github.com/Unity-Technologies/NavMeshComponents.git",
+    "https://github.com/Unity-Technologies/com.unity.probuilder"
+  ]
+}

@@ -5,6 +5,10 @@
       "registry": "doubtech.json"
     },
     {
+      "name": "Unity",
+      "registry": "unity.json"
+    },
+    {
       "name": "Wit.ai",
       "registry": "wit.json"
     }
