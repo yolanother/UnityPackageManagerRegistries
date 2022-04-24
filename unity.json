@@ -23,7 +23,7 @@
             "named-package": "com.ptc.vuforia.engine",
             "incompatible-versions":
             [
-                "2021.2++"
+                "2021.2+"
             ]
         },
         {
