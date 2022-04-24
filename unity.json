@@ -7,6 +7,10 @@
       "package": "https://github.com/Unity-Technologies/com.unity.probuilder.git"
     },
     {
+      "named-package": "com.unity.graphtools.foundation",
+      "name": "Graph Tools Foundation"
+    },
+    {
       "named-package": "com.unity.ai.navigation",
       "name": "NavMesh Building Components"
     }
