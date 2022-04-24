@@ -1,78 +1,247 @@
 {
-  "name": "Unity Preview Packages",
-  "description": "A collection of open sourced libraries from https://github.com/Unity-Technologies",
-  "packages": [
-    {
-      "name": "Probuilder",
-      "named-package": "com.unity.probuilder"
-    },
-    {
-      "named-package": "com.unity.progrids",
-      "name": "ProGrids"
-    },
-    {
-      "named-package": "com.unity.graphtools.foundation",
-      "name": "Graph Tools Foundation"
-    },
-    {
-      "named-package": "com.unity.ai.navigation",
-      "name": "NavMesh Building Components"
-    },
-    {"named-package": "com.ptc.vuforia.engine"},
-    {"named-package": "com.unity.2d.entities"},
-    {"named-package": "com.unity.ai.planner"},
-    {"named-package": "com.unity.aovrecorder"},
-    {"named-package": "com.unity.assetbundlebrowser"},
-    {"named-package": "com.unity.assetgraph"},
-    {"named-package": "com.unity.barracuda"},
-    {"named-package": "com.unity.barracuda.burst"},
-    {"named-package": "com.unity.build-report-inspector"},
-    {"named-package": "com.unity.cloud.userreporting"},
-    {"named-package": "com.unity.collections"},
-    {"named-package": "com.unity.connect.share"},
-    {"named-package": "com.unity.dots.editor"},
-    {"named-package": "com.unity.entities"},
-    {"named-package": "com.unity.film-tv.toolbox"},
-    {"named-package": "com.unity.google.resonance.audio"},
-    {"named-package": "com.unity.immediate-window"},
-    {"named-package": "com.unity.mathematics"},
-    {"named-package": "com.unity.meshsync"},
-    {"named-package": "com.unity.multiplayer-hlapi"},
-    {"named-package": "com.unity.package-manager-doctools"},
-    {"named-package": "com.unity.package-manager-ui"},
-    {"named-package": "com.unity.package-validation-suite"},
-    {"named-package": "com.unity.physics"},
-    {"named-package": "com.unity.platforms"},
-    {"named-package": "com.unity.platforms.android"},
-    {"named-package": "com.unity.platforms.linux"},
-    {"named-package": "com.unity.platforms.macos"},
-    {"named-package": "com.unity.platforms.web"},
-    {"named-package": "com.unity.platforms.windows"},
-    {"named-package": "com.unity.playablegraph-visualizer"},
-    {"named-package": "com.unity.render-pipelines.lightweight"},
-    {"named-package": "com.unity.rendering.hybrid"},
-    {"named-package": "com.unity.renderstreaming"},
-    {"named-package": "com.unity.scene-template"},
-    {"named-package": "com.unity.simulation.client"},
-    {"named-package": "com.unity.simulation.core"},
-    {"named-package": "com.unity.simulation.capture"},
-    {"named-package": "com.unity.simulation.games"},
-    {"named-package": "com.unity.standardevents"},
-    {"named-package": "com.unity.streaming-image-sequence"},
-    {"named-package": "com.unity.test-framework.performance"},
-    {"named-package": "com.unity.tiny.all"},
-    {"named-package": "com.unity.transport"},
-    {"named-package": "com.unity.upm.develop"},
-    {"named-package": "com.unity.vectorgraphics"},
-    {"named-package": "com.unity.webrtc"},
-    {"named-package": "com.unity.xr.googlevr.android"},
-    {"named-package": "com.unity.xr.googlevr.ios"},
-    {"named-package": "com.unity.xr.legacyinputhelpers"},
-    {"named-package": "com.unity.xr.oculus.android"},
-    {"named-package": "com.unity.xr.oculus.standalone"},
-    {"named-package": "com.unity.xr.openvr.standalone"},
-    {"named-package": "com.unity.xr.arsubsystems"},
-    {"named-package": "com.unity.xr.interactionsubsystems"},
-    {"named-package": "com.unity.xr.windowsmr.metro"}
-  ]
+    "name": "Unity Preview Packages",
+    "description": "A collection of open sourced libraries from https://github.com/Unity-Technologies",
+    "packages":
+    [
+        {
+            "name": "Probuilder",
+            "named-package": "com.unity.probuilder"
+        },
+        {
+            "named-package": "com.unity.progrids",
+            "name": "ProGrids"
+        },
+        {
+            "named-package": "com.unity.graphtools.foundation",
+            "name": "Graph Tools Foundation"
+        },
+        {
+            "named-package": "com.unity.ai.navigation",
+            "name": "NavMesh Building Components"
+        },
+        {
+            "named-package": "com.ptc.vuforia.engine",
+            "incompatible-versions":
+            [
+                "2021.2++"
+            ]
+        },
+        {
+            "named-package": "com.unity.2d.entities"
+        },
+        {
+            "named-package": "com.unity.ai.planner"
+        },
+        {
+            "named-package": "com.unity.aovrecorder"
+        },
+        {
+            "named-package": "com.unity.assetbundlebrowser"
+        },
+        {
+            "named-package": "com.unity.assetgraph"
+        },
+        {
+            "named-package": "com.unity.barracuda"
+        },
+        {
+            "named-package": "com.unity.barracuda.burst",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        },
+        {
+            "named-package": "com.unity.build-report-inspector"
+        },
+        {
+            "named-package": "com.unity.cloud.userreporting"
+        },
+        {
+            "named-package": "com.unity.collections"
+        },
+        {
+            "named-package": "com.unity.connect.share"
+        },
+        {
+            "named-package": "com.unity.dots.editor"
+        },
+        {
+            "named-package": "com.unity.entities"
+        },
+        {
+            "named-package": "com.unity.film-tv.toolbox"
+        },
+        {
+            "named-package": "com.unity.google.resonance.audio",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        },
+        {
+            "named-package": "com.unity.immediate-window"
+        },
+        {
+            "named-package": "com.unity.mathematics"
+        },
+        {
+            "named-package": "com.unity.meshsync"
+        },
+        {
+            "named-package": "com.unity.multiplayer-hlapi",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        },
+        {
+            "named-package": "com.unity.package-manager-doctools",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        },
+        {
+            "named-package": "com.unity.package-manager-ui",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        },
+        {
+            "named-package": "com.unity.package-validation-suite"
+        },
+        {
+            "named-package": "com.unity.physics"
+        },
+        {
+            "named-package": "com.unity.platforms"
+        },
+        {
+            "named-package": "com.unity.platforms.android"
+        },
+        {
+            "named-package": "com.unity.platforms.linux"
+        },
+        {
+            "named-package": "com.unity.platforms.macos"
+        },
+        {
+            "named-package": "com.unity.platforms.web"
+        },
+        {
+            "named-package": "com.unity.platforms.windows"
+        },
+        {
+            "named-package": "com.unity.playablegraph-visualizer"
+        },
+        {
+            "named-package": "com.unity.render-pipelines.lightweight",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        },
+        {
+            "named-package": "com.unity.rendering.hybrid"
+        },
+        {
+            "named-package": "com.unity.renderstreaming"
+        },
+        {
+            "named-package": "com.unity.scene-template"
+        },
+        {
+            "named-package": "com.unity.simulation.client"
+        },
+        {
+            "named-package": "com.unity.simulation.core"
+        },
+        {
+            "named-package": "com.unity.simulation.capture"
+        },
+        {
+            "named-package": "com.unity.simulation.games"
+        },
+        {
+            "named-package": "com.unity.standardevents",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        },
+        {
+            "named-package": "com.unity.streaming-image-sequence"
+        },
+        {
+            "named-package": "com.unity.test-framework.performance"
+        },
+        {
+            "named-package": "com.unity.tiny.all"
+        },
+        {
+            "named-package": "com.unity.transport"
+        },
+        {
+            "named-package": "com.unity.upm.develop"
+        },
+        {
+            "named-package": "com.unity.vectorgraphics"
+        },
+        {
+            "named-package": "com.unity.webrtc"
+        },
+        {
+            "named-package": "com.unity.xr.googlevr.android",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        },
+        {
+            "named-package": "com.unity.xr.googlevr.ios",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        },
+        {
+            "named-package": "com.unity.xr.legacyinputhelpers"
+        },
+        {
+            "named-package": "com.unity.xr.oculus.android",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        },
+        {
+            "named-package": "com.unity.xr.oculus.standalone",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        },
+        {
+            "named-package": "com.unity.xr.openvr.standalone",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        },
+        {
+            "named-package": "com.unity.xr.arsubsystems"
+        },
+        {
+            "named-package": "com.unity.xr.interactionsubsystems"
+        },
+        {
+            "named-package": "com.unity.xr.windowsmr.metro",
+            "incompatible-versions":
+            [
+                "2021.2+"
+            ]
+        }
+    ]
 }
