@@ -1,0 +1,16 @@
+{
+  "registry-list": [
+    {
+      "name": "Doubling Technologies",
+      "registry": "doubtech.json"
+    },
+    {
+      "name": "Unity Preview Packages",
+      "registry": "unity.json"
+    },
+    {
+      "name": "Wit.ai",
+      "registry": "wit.json"
+    }
+  ]
+}
