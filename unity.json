@@ -83,6 +83,9 @@
             "named-package": "com.unity.immediate-window"
         },
         {
+            "named-package": "com.unity.jobs"
+        },
+        {
             "named-package": "com.unity.mathematics"
         },
         {
